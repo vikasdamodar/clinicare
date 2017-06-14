@@ -33,7 +33,7 @@
                    builder.append(s);
                    if(c!=1)
                    {
-                    response.sendRedirect("doctormain.jsp");   
+                    response.sendRedirect("Login.jsp");   
                    }
                    
                 
